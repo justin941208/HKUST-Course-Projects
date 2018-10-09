@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'huangyf'
-
 import os
 import re
 import time
