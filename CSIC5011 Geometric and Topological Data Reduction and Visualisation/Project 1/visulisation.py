@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'huangyf'
-
 import numpy as np
 import seaborn
 import time
