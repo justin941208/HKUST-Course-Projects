@@ -1,3 +1,3 @@
-# HKUST-Course-Projects
+# HKUST-Projects
 
-HKUST Course Projects
+HKUST Projects
